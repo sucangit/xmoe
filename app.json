@@ -1,5 +1,5 @@
 {
-    "name": "XrayHeroku",
+    "name": "xmoe",
     "description": "xray websocket proxy on heroku",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
@@ -29,7 +29,7 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/Lbingyi/HerokuXray/main/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/sucangit/xmoe/main/etc/StoreFiles"
         }
     },
     "website": "https://github.com/sucangit/xmoe",
